@@ -27,7 +27,7 @@ By analyzing telecom churn data, I aim to uncover actionable insights that help 
 ## Links
 - **Kaggle Dataset:** https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas/notebook
   
-- **LinkedIn Post:** [Link to LinkedIn post discussing the project]
+- **LinkedIn Post:** https://www.linkedin.com/posts/shubh-kathal-969b57223_dataanalysis-kaggle-python-activity-7207828059477942274-6BBl?utm_source=share&utm_medium=member_desktop
 
 Feel free to explore the notebooks and follow along as I continue to develop and improve this project. Your feedback and contributions are welcome!
 
