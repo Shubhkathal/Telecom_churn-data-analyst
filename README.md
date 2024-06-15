@@ -8,9 +8,7 @@ Welcome to my repository where I explore telecom churn data sourced from Kaggle.
   
 - **Feature Engineering:** I explore feature engineering techniques to enhance predictive modeling accuracy and explore different strategies to improve model performance.
   
-- **Predictive Modeling:** Leveraging machine learning algorithms like logistic regression, decision trees, and random forests, I build predictive models to forecast customer churn. Evaluation metrics such as accuracy, precision, and recall are used to assess model effectiveness.
 
-## Repository Structure
 - **Data:** Contains the raw dataset.
   
 - **Notebooks:** Jupyter notebooks detailing the step-by-step EDA and predictive modeling process.
